@@ -1,0 +1,22 @@
+{
+  "name": "kylin-pages",
+  "version": "0.1.0",
+  "description": "workflow",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/chenqi-0508/kylin-pages.git"
+  },
+  "keywords": [
+    "cqqzy66835840"
+  ],
+  "author": "kylinChen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenqi-0508/kylin-pages/issues"
+  },
+  "homepage": "https://github.com/chenqi-0508/kylin-pages#readme"
+}
